@@ -5,7 +5,7 @@ It consists of the following files:
 
   README.md:         this file
 
-  MDASS.pdf:         accepted paper
+  MDASS.pdf:         our paper
   
   sup-MDASS.pdf:     supplementary material
 

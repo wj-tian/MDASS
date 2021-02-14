@@ -3,9 +3,9 @@
 
 It consists of the following files:
 
-  README.md         this file
+  README.md:         this file
 
-  MDASS.pdf         accepted paper
+  MDASS.pdf:         accepted paper
   
-  sup-MDASS.pdf     supplementary material
+  sup-MDASS.pdf:     supplementary material
 
